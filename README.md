@@ -12,6 +12,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GookGai)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GookGai)]
 
 ![Profile views](https://gpvc.arturio.dev/GookGai)  
