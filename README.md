@@ -3,6 +3,7 @@
 - Student of Computer Engineering, KMITL
 - Football Thaileague's Lover
 - Big fan of Samutprakan City 
+- Analyst football match is my hobby
 
 
 
